@@ -5,4 +5,4 @@ code for MGWR analysis on HIV.
 
 
 # reference
-https://mehak-sachdeva.github.io/MGWR_workshop_book/
+Based on Dr. Mehak Sachdeva work at https://mehak-sachdeva.github.io/MGWR_workshop_book/.
